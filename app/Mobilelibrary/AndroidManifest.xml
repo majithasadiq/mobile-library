@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobilelibrary"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.mobilelibrary.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Search"
+            android:label="@string/title_activity_search" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.NormalSearch"
+            android:label="@string/title_activity_normal_search" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Elink"
+            android:label="@string/title_activity_elink" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Signup"
+            android:label="@string/title_activity_signup" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Bookdetails"
+            android:label="@string/title_activity_bookdetails" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Loginhome"
+            android:label="@string/title_activity_loginhome" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Admin"
+            android:label="@string/title_activity_admin" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.AdminHome"
+            android:label="@string/title_activity_admin_home" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Newarrivalsdetails"
+            android:label="@string/title_activity_newarrivalsdetails" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Elinkdetails"
+            android:label="@string/title_activity_elinkdetails" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Newarrivalview"
+            android:label="@string/title_activity_newarrivalview" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Normalsearchview"
+            android:label="@string/title_activity_normalsearchview" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Elinkview"
+            android:label="@string/title_activity_elinkview" >
+        </activity>
+        <activity
+            android:name="com.example.mobilelibrary.Loginview"
+            android:label="@string/title_activity_loginview" >
+        </activity>
+    </application>
+
+</manifest>

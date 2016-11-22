@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobilelibrary</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world</string>
+    <string name="click">GO</string>
+    <string name="inname">MOBILE LIBRARY</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="search">SEARCH</string>
+    <string name="adminlogin">ADMIN LOGIN</string>
+    <string name="userlogin">USER LOGIN</string>
+    <string name="login">LOGIN</string>
+    <string name="elink">E-LINK</string>
+    <string name="arrival">NEW ARRIVALS</string>
+    <string name="title_activity_search">Search</string>
+    <string name="nsearch">NORMAL SEARCH</string>
+    <string name="bsearch">BARCODE SEARCH</string>
+    <string name="back">BACK</string>
+    <string name="title_activity_normal_search">NormalSearch</string>
+    <string name="bname">BOOK NAME</string>
+    <string name="dept">DEPARTMENT</string>
+    <string name="sem">SEMESTER</string>
+    <string name="code">ISBN CODE</string>
+    <string name="title_activity_elink">Elink</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign">SIGNUP</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="cname">NAME</string>
+    <string name="cpassword">RETYPE PASSWORD</string>
+    <string name="mail">MAIL ID</string>
+    <string name="title_activity_bookdetails">Bookdetails</string>
+    <string name="insert">INSERT</string>
+    <string name="title_activity_loginhome">Loginhome</string>
+    <string name="title_activity_admin">Admin</string>
+    <string name="id">BOOK ID</string>
+    <string name="exit">EXIT</string>
+    <string name="bid">BOOK ID</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="status">STATUS</string>
+    <string name="title_activity_admin_home">Home</string>
+    <string name="bookdetails">BOOK DETAILS</string>
+    <string name="newarrivals">NEW ARRIVALS</string>
+    <string name="title_activity_newarrivalsdetails">Newarrivals</string>
+    <string name="title_activity_elinkdetails">Elinkdetails</string>
+    <string name="title_activity_newarrivalview">Newarrivals</string>
+    <string name="title_activity_normalsearchview">details</string>
+    <string name="title_activity_elinkview">Elink</string>
+    <string name="title_activity_loginview">Loginview</string>
+    <string name="uview">BOOKS YOU ARE TAKEN--------</string>
+
+</resources>
